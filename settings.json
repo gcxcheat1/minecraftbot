@@ -8,7 +8,7 @@
   "server": {
     "ip": "alvii1.aternos.me",
     "port": 26179,
-    "version": "26.3.0"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
